@@ -1,0 +1,28 @@
+Steps on git hub
+*
+1. create a file at git hub
+2. download git
+3. install git
+4. make a repository on local " Project"
+5. right click and "git bash here"
+6. on git command line
+	a. git init
+	b. git config --global user.email "rongac16@gmail.com"
+	c. git config --global user.name "ronald"
+	d. git status
+	e. git add
+	f. git status
+	g. git commit
+	h. git remote add origin https://github.com/rongac16/Project.git
+	j. git remote
+	k. git push
+	l. git push origin master
+	m. git status
+	n. git add sample.txt " adding a file"
+	o. git commit -m 'added sample file'
+	p. git push
+	q. git push --set-upstream origin master
+	
+
+	
+
