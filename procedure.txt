@@ -29,4 +29,6 @@ Windows (x86, 32-bit), MSI Installer ----- with internet
 
 Windows (x86, 32-bit), MSI Installer  ---- offline
 	
+Download Visual C++ Redistributable for Visual Studio 2015 - Microsoft
+
 
