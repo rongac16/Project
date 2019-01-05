@@ -23,6 +23,10 @@ Steps on git hub
 	p. git push
 	q. git push --set-upstream origin master
 	
+download :
+ mysql : 
+Windows (x86, 32-bit), MSI Installer ----- with internet
 
+Windows (x86, 32-bit), MSI Installer  ---- offline
 	
 
